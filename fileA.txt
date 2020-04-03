@@ -1,3 +1,4 @@
 feature1
  - subfeature 1.a
  - subfeature 1.b
+feature 2
